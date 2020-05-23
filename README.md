@@ -16,5 +16,5 @@
 ## Choose one portfolio and plot a rolling beta between that portfolio's returns and S&P 500 returns. Does the portfolio seem sensitive to movements n the S&P 500?
 > I chose Berkshire Hathaway and compared it to the S&P 500 returns. There seems to be no real senstivity of the Berkshire portoflio to the movements in the S&P 500. This can also be seen in the fact gthat the correlations are so low as well. 
 
-## Comments on the 4-stock custome portolfio 
+## Comments on the 4-stock custom portolfio 
 ? I chose stocks Lululemon, Blackstone, a High-yield ETF, and a Gold ETF. I would have expected a lower or similar result to the S&P because I chose a growth stock, a value stock, an inflation hedge and another uncorrelated investment. My reuslts were different than expected. The overall risk of teh portfolio was close to the S&P, but it outperformed, on a risk-adjusted basis, all portoflio except Bershire Hathaway and the Algo 1 portfolio. 
